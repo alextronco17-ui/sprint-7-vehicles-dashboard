@@ -5,9 +5,8 @@ del sprint de herramientas de desarrollo de software de TripleTen.
 
 ## Aplicación desplegada
 
-**Pendiente de despliegue.** Antes de enviar al revisor, reemplazar esta línea
-por el enlace real de Render, por ejemplo `https://nombre-real.onrender.com/`.
-Ese ejemplo no corresponde a una aplicación publicada.
+La aplicación está disponible en Render:
+[Explorar anuncios de coches](https://sprint-7-vehicles-dashboard-wl0i.onrender.com)
 
 ## Funcionalidad
 
