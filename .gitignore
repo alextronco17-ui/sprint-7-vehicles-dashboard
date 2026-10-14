@@ -1,0 +1,16 @@
+# Entornos locales
+vehicles_env/
+.venv/
+venv/
+env/
+
+# Archivos de Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Credenciales y archivos del sistema
+.env
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
